@@ -2,16 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-To run the website install npm (recommended) or any other package manager and run any of the following commands:
+To run the website install npm (recommended) or any other package manager and run the following commands:
 
 ```bash
+npm install
+# then
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
