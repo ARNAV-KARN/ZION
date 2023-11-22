@@ -20,7 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${Playfair.className} relative`}>
+      <body className={`${Playfair.className}`}>
         <Navbar />
         {children}
       </body>
